@@ -1,0 +1,14 @@
+.link {
+  color: #000000;
+  cursor: pointer;
+  &:hover {
+    color:#000000;
+  }
+}
+.activelink {
+  color: blue;
+  cursor: pointer;
+  &:hover {
+    color:blue;
+  }
+}

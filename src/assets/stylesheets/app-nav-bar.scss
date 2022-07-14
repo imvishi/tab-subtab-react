@@ -1,0 +1,14 @@
+.nav_link {
+  color: #ffffff;
+  text-decoration: none;
+  &:hover {
+    color:#ffffff;
+  }
+}
+.nav_activelink {
+  color: blue;
+  text-decoration: none;
+  &:hover {
+    color:blue;
+  }
+}
